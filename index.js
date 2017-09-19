@@ -1,4 +1,4 @@
-const AppcachePlugin = require('appcache-webpack-plugin-plus')
+const AppcachePlugin = require('appcache-webpack-plugin-plus').default
 
 /**
  * @param {object} config
