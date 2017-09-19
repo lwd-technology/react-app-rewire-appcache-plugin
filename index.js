@@ -1,4 +1,4 @@
-const AppcachePlugin = require('appcache-webpack-plugin')
+const AppcachePlugin = require('appcache-webpack-plugin-plus')
 
 /**
  * @param {object} config

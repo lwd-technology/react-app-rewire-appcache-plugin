@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-appcache-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Add appcache-webpack-plugin to a react-app-rewired config.",
   "main": "index.js",
   "files": ["index.js"],
@@ -26,8 +26,8 @@
   "homepage":
     "https://github.com/lwd-technology/react-app-rewire-appcache-plugin#readme",
   "dependencies": {
-    "appcache-webpack-plugin": "^1.3.0",
-    "webpack": "^2.7.0"
+    "appcache-webpack-plugin-plus": "^2.0.0",
+    "webpack": "^3.6.0"
   },
   "devDependencies": {
     "eslint": "^4.7.0",
